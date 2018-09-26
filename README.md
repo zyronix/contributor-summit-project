@@ -90,7 +90,7 @@ See [the resources list](../../RESOURCES.md) to see examples of what we could of
 
 # Project Ideas
 If need a little inspiration to come up with a project idea, we've put together a 
-[list of some suggestions](../../PROJECTS.md). Feel free to use what you'd like from here,
+[list of some suggestions](../../blob/master/PROJECTS.md). Feel free to use what you'd like from here,
 no credit is needed.
 
 # Questions?
