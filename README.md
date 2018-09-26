@@ -48,7 +48,7 @@ Open the [Options](../../settings) page to check them out.
 ### Wikis
 You might choose to keep your project documentation in a Wiki to enable low-friction
 collaborative editing. If you're creating a Puppet Module, you should use the
-[standard `README.md` and `REFERENCE.md` documentation pattern](https://puppet.com/docs/puppet/latest/modules_documentation.html) instead.
+standard `README.md` and `REFERENCE.md` [documentation pattern](https://puppet.com/docs/puppet/latest/modules_documentation.html) instead.
 
 Reference the [GitHub documentation](https://help.github.com/articles/about-github-wikis)
 if you'd like more information.
