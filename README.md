@@ -65,5 +65,8 @@ if you'd like more information.
 # Resources
 
 # Project Ideas
+If need a little inspiration to come up with a project idea, we've put together a 
+[list of some suggestions](../../PROJECTS.md). Feel free to use what you'd like from here,
+no credit is needed.
 
 # Questions?
