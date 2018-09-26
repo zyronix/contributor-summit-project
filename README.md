@@ -83,10 +83,10 @@ actual checkin date & time will vary.) In addition, during the project month we'
 several resources and services that you might not otherwise have access to.
 
 Some of the resources will be provided via webinars or by downloaded materials and some
-will be provided in one-on-one chats or video consulations. The Puppet community team
-will coordinate with each of you to ensure that you receive all the help you need.
+will be provided as short one-on-one chats or video consulations. The Puppet community
+team will coordinate with each of you to ensure that you receive all the help you need.
 
-<insert resource list>
+See [the resources list](../../RESOURCES.md) to see examples of what we could offer.
 
 # Project Ideas
 If need a little inspiration to come up with a project idea, we've put together a 
