@@ -9,7 +9,7 @@ releases at Contributor Summit Online, so this is a month-long hackathon!
 
 There are only two restrictions on what projects you can choose:
 
-1. You must be able to complete an MVP release in one month.
+1. You must be able to complete an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) release in one month.
 1. The project must contribute something positive to the world of DevOps.
 
 This means that your project could be anything from a Puppet module, to a CI or
@@ -97,7 +97,7 @@ no credit is needed.
 
 * Can I work on an existing project?
    * Sure! It would help us keep track of projects if you forked this repository and
-     add your charter and a link to the actual project repository as the `README.md`. 
+     add your charter and a link to the actual project repository as the `README.md`
 * Can I work on something that's not software?
    * Absolutely. Use this month to write a DevOps book, if you'd like! As you're defining
      your roadmap, you'll want to massage the issue queue to be more useful for the kind
