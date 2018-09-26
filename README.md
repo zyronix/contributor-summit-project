@@ -86,7 +86,7 @@ Some of the resources will be provided via webinars or by downloaded materials a
 will be provided as short one-on-one chats or video consulations. The Puppet community
 team will coordinate with each of you to ensure that you receive all the help you need.
 
-See [the resources list](../../RESOURCES.md) to see examples of what we could offer.
+See [the resources list](../../blob/master/RESOURCES.md) to see examples of what we could offer.
 
 # Project Ideas
 If need a little inspiration to come up with a project idea, we've put together a 
