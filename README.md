@@ -108,6 +108,9 @@ and see if any look exciting.
    * Project coordinators will contact you via email or Slack.
    * The [Puppet Community Slack](http://slack.puppet.com) has a #contributor-summit channel for conversation.
    * Email community-team@puppet.com if you need anything.
+* Can I change the name of my repository?
+   * After the fork & clone are complete, you may change the name of the repository to
+     match your project name better if you'd like.
 * Why does the setup script ask for my GitHub credentials?
    * The script uses your credentials to configure your fork of the project repository.
      If you're using two-factor authentication, it will request a 2fa code and use that
