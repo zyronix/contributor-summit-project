@@ -41,13 +41,10 @@ need help with any of these steps.
       the local copy of your repository.
     * Run the command `git clone https://github.com/<your username>/contributor-summit-project`
 1. Run the setup script to populate issues and milestones.
-    * Windows
-      1. Install a Ruby runtime if needed.
-          * https://rubyinstaller.org
-      1. Run the command `./setup.ps1`
-    * Linux/Mac
-      1. Install Ruby following your distribution's standards if needed.
-      1. Run the command `./setup.rb`
+   1. Install a Ruby runtime if needed.
+      * Windows: https://rubyinstaller.org
+      * Linux: use your distributions package manager to install `ruby`.
+   1. Run the command `./setup.rb`
  1. Email your project information to community-team@puppet.com. Include:
       1. Your name
       1. Your Slack username
@@ -93,6 +90,11 @@ If need a little inspiration to come up with a project idea, we've put together 
 [list of some suggestions](../../blob/master/PROJECTS.md). Feel free to use what you'd like from here,
 no credit is needed.
 
+If you'd like to collaborate with others for your project, please put a prominent note in
+your project's `README.md` and socialize your idea in the `#contributor-summit` Slack
+channel. And conversely, if you're looking to join a project, browse the [forks](../../network/members)
+and see if any look exciting.
+
 # Questions?
 
 * Can I work on an existing project?
@@ -106,9 +108,15 @@ no credit is needed.
    * Project coordinators will contact you via email or Slack.
    * The [Puppet Community Slack](http://slack.puppet.com) has a #contributor-summit channel for conversation.
    * Email community-team@puppet.com if you need anything.
+* Why does the setup script ask for my GitHub credentials?
+   * The script uses your credentials to configure your fork of the project repository.
+     If you're using two-factor authentication, it will request a 2fa code and use that
+     to create a temporary personal access token that's deleted at the end of the script.
+   * The script is very short and clear. Please audit it to ensure no funny business.
+   * If you're still not comfortable with this, then see the next question.
 * What if I can't run the setup script?
-   * The script just turns on the Issues queue and clones the milestones and issues from
+   * The script just turns on the Issues queue and duplicates the milestones and issues from
      the template repository. You can do that manually if needed.
 * What if I have other questions?
-   * Email community-team@puppet.com.
+   * Email community-team@puppet.com and we'll do our best to answer it!
 
