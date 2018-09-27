@@ -23,10 +23,11 @@ and see if you can join forces with someone already working on it.
 * Speaking of Bolt, wouldn't it be great to have a Bolt-based acceptance test framework
   that's much easier to use than Beaker?
 
-* Types and Providers have long been a dark art. Recently though, we've released a new
-  library to simplify the job. If there's always been that job you knew was suited for
-  a type and provider, but didn't have the time to learn how -- now's the time. Build
-  a new T&P or port an existing defined type to the Resource API.
+* Types and Providers have long been a dark art. Recently though, we've released 
+  [a new library to simplify the job](https://puppet.com/docs/puppet/6.0/create_types_and_providers_resource_api.html).
+  If there's always been that job you knew was suited for a type and provider, but didn't
+  have the time to learn how -- now's the time. Build a new T&P or port an existing
+  defined type to the Resource API.
 
 * The Puppet Server stack has been containerized, which opens us up to all sorts of nifty
   ideas. Perhaps you could put together a quick acceptance test automation framework using
