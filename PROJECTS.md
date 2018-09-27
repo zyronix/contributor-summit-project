@@ -33,8 +33,8 @@ and see if you can join forces with someone already working on it.
   ideas. Perhaps you could put together a quick acceptance test automation framework using
   [Pupperware](https://github.com/puppetlabs/pupperware). What else can you imagine?
 
-* Puppet Server now comes with a new CA command line tool and gem. It might be nice to
-  have an open source graphical/web certificate management interface.
+* Puppet Server now comes with a new [CA command line tool and gem](https://puppet.com/docs/puppetserver/6.0/release_notes.html).
+  It might be nice to have an open source graphical/web certificate management interface.
 
 * Do you have a favorite open source project? How are its docs? What about that one
   project? You know, the one with the default `README.md` created by GitHub... Maybe
