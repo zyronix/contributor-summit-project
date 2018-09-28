@@ -45,11 +45,9 @@ need help with any of these steps.
       * Windows: https://rubyinstaller.org
       * Linux: use your distributions package manager to install `ruby`.
    1. Run the command `./setup.rb`
- 1. Email your project information to community-team@puppet.com. Include:
-      1. Your name
-      1. Your Slack username
-      1. Your [project charter](../../issues/1)
-      1. The URL to this repository
+ 1. Tell us about your project:
+      1. You'll need to create your [project charter](../../issues/1) first
+      1. [Submit your project](https://goo.gl/forms/1g0znAZTyECzXD3q2)
 
 ## Using GitHub features
 GitHub includes some optional repository features that you might be interested in.
