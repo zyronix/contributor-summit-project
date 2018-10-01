@@ -66,3 +66,6 @@ just might be easier than you think!
 * Webinar on internationalizing a Puppet module or software project
 * Translation resources
 * Sanity check of internationalization resources 
+
+If there's something that would really help move your project along, feel free
+to ask community-team@puppet.com or in Slack and we'll see if we can accomodate.
