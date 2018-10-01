@@ -68,4 +68,4 @@ just might be easier than you think!
 * Sanity check of internationalization resources 
 
 If there's something that would really help move your project along, feel free
-to ask community-team@puppet.com or in Slack and we'll see if we can accomodate.
+to ask community@puppet.com or in Slack and we'll see if we can accomodate.
