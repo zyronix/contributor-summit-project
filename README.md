@@ -5,21 +5,20 @@ sessions from past Contributor Summits and refocuses on long-term sustainability
 We're hoping that not only do you get a supported chance to play with some of our
 new technology, but you can build it into something that contributes to the larger
 DevOps community. We'll kick things off at Puppetize Live and make our first
-releases at Contributor Summit Online, so this is a month-long hackathon!
+releases at Contributor Summit Online, so this is a month-long collaborative hackathon!
 
-There are only two restrictions on what projects you can choose:
+We'll work with you throughout the month to help you maximine the value of your time
+and reduce the amount of overhead you'll have to handle. See below for some of the
+ways that Puppet can collaborate with you.
 
-1. You must be able to complete an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) release in one month.
-1. The project must contribute something positive to the world of DevOps.
+There are no real restrictions on what projects you can choose, only two suggestions:
+
+1. You should be able to complete an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) release in one month.
+1. The project should contribute something positive to the world of DevOps.
 
 This means that your project could be anything from a Puppet module, to a CI or
 testing framework, to enhanced documentation for another project, to a process or
 pattern proposal. The possibilities are endless!
-
-Puppet will facilitate your effort during the event to help keep you from getting
-blocked on some common issues and to keep your project moving along quickly. We
-won't have a lot of time, so we'll all have to work effectively. See below for some
-examples of resources that you will have access to.
 
 We're glad that you're joining us on this adventure. It will be fun!
 
@@ -70,7 +69,7 @@ board. Starting from a basic Kanban template will likely be the easiest way to g
 Reference the [GitHub documentation](https://help.github.com/articles/about-project-boards)
 if you'd like more information.
 
-# Resources Provided
+# Collaboration Resources Provided
 We would like to help ensure your success. We'll be working with you to help keep your
 projects on track. We'll help you define your project scope and set roadmap goals, then
 check in with you roughly weekly. (Milestones are scheduled for each Wednesday, but the
@@ -84,7 +83,7 @@ team will coordinate with each of you to ensure that you receive all the help yo
 See [the resources list](../../blob/master/RESOURCES.md) to see examples of what we could offer.
 
 # Project Ideas
-If need a little inspiration to come up with a project idea, we've put together a 
+If you need a little inspiration to come up with a project idea, we've put together a 
 [list of some suggestions](../../blob/master/PROJECTS.md). Feel free to use what you'd like from here,
 no credit is needed.
 
