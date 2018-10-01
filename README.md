@@ -104,7 +104,7 @@ and see if any look exciting.
 * How will we communicate during the project month?
    * Project coordinators will contact you via email or Slack.
    * The [Puppet Community Slack](http://slack.puppet.com) has a #contributor-summit channel for conversation.
-   * Email community-team@puppet.com if you need anything.
+   * Email community@puppet.com if you need anything.
 * Can I change the name of my repository?
    * After the fork & clone are complete, you may change the name of the repository to
      match your project name better if you'd like.
@@ -118,5 +118,5 @@ and see if any look exciting.
    * The script just turns on the Issues queue and duplicates the milestones and issues from
      the template repository. You can do that manually if needed.
 * What if I have other questions?
-   * Email community-team@puppet.com and we'll do our best to answer it!
+   * Email community@puppet.com and we'll do our best to answer it!
 
