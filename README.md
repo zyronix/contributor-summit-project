@@ -105,6 +105,10 @@ and see if any look exciting.
    * Project coordinators will contact you via email or Slack.
    * The [Puppet Community Slack](http://slack.puppet.com) has a #contributor-summit channel for conversation.
    * Email community@puppet.com if you need anything.
+* Does this work count towards [Hacktoberfest](https://hacktoberfest.digitalocean.com)?
+   * Most certainly! As long as the projects you're contributing to are public projects on
+     GitHub, then any pull requests you make in the month of October will count towards
+     the challenge.
 * Can I change the name of my repository?
    * After the fork & clone are complete, you may change the name of the repository to
      match your project name better if you'd like.
