@@ -1,0 +1,12 @@
+---
+Gemfile:
+  optional: 
+    ':system_tests':
+      - gem: beaker
+        from_env: 'BEAKER_VERSION'
+      - gem: beaker-rspec
+        from_env: 'BEAKER_RSPEC_VERSION'
+      - gem: docker-api
+      - gem: beaker-docker
+      - gem: beaker-puppet_install_helper
+      - gem: beaker-module_install_helper

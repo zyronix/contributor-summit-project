@@ -1,0 +1,11 @@
+---
+HOSTS:
+  debian-9:
+    platform: debian-9-x64
+    image: debian:9
+    hypervisor: docker
+    docker_preserve_image: true
+    docker_image_commands:
+      - 'apt-get install -y net-tools wget curl'
+CONFIG: 
+  type: foss
