@@ -4,9 +4,21 @@
 #
 # @example
 #   include ejbca
-class ejbca inherits ejbca::params {
-  class {'ejbca::jboss': }
-  -> class {'ejbca::install': }
+class ejbca (
+  Boolean $manage_app_server      = $ejbca::params::manage_app_server,
+  Enum['wildfly'] $app_server     = $ejbca::params::app_server,
+  String $app_server_version      = $ejbca::params::app_server_version,
+  Variant[Pattern[/^file:\/\//], Pattern[/^puppet:\/\//], Stdlib::Httpsurl, Stdlib::Httpurl] $app_server_download_url = $ejbca::params::app_server_download_url, # lint:ignore:140chars
+) inherits ejbca::params {
+  if $manage_app_server {
+    if $app_server == 'wildfly' {
+      class {'ejbca::wildfly':
+        before => Class['ejbca::install']
+      }
+    }
+  }
+
+  class {'ejbca::install': }
   -> class {'ejbca::config': }
   -> class {'ejbca::service': }
 }
